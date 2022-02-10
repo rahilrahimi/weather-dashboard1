@@ -55,6 +55,6 @@ It allows the user to search to view weather outlook for multiple cities so trav
 https://watch.screencastify.com/v/xgK4s2oeyARDeerAzETp
 
 ## Deployed Link
-
+https://rahilrahimi.github.io/weather_dashboard/
 
 
