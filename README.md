@@ -48,11 +48,10 @@ It allows the user to search to view weather outlook for multiple cities so trav
 * Moment.js
 * Server-Side API - OpenWeather API
 
-## Muck Up
-![pj](https://user-images.githubusercontent.com/87342751/153477899-e4d1859d-3cb9-47ff-bbc8-14851cb32c53.PNG)
+## Demo Link & Muck Up
+https://watch.screencastify.com/v/mOxQRBc6d3Q4x2xvVmpb
 
-## Demo Link
-https://watch.screencastify.com/v/xgK4s2oeyARDeerAzETp
+![mv](https://user-images.githubusercontent.com/87342751/153486817-13398a8a-6823-4fcf-993e-0ba817c2bd3f.PNG)
 
 ## Deployed Link
 https://rahilrahimi.github.io/weather_dashboard/
