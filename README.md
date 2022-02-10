@@ -1,5 +1,4 @@
-# weather-dashboard1
-# Weather Dashboard
+# Weather_Dashboard
 
 This is a weather dashboard with form inputs that will run in the browser and feature dynamically updated HTML and CSS. It allows the user to search to view weather outlook for multiple cities so travelers can plan a trip accordingly.
 
