@@ -1,8 +1,8 @@
 # Weather_Dashboard
 
-This is a weather dashboard with form inputs that will run in the browser and feature dynamically updated HTML and CSS. It allows the user to search to view weather outlook for multiple cities so travelers can plan a trip accordingly.
-
-[OpenWeather API](https://openweathermap.org/api) is used to retrieve weather data for cities. And `localStorage` is used to store persistent data.
+This is a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. I used the OpenWeather One Call API (Links to an external site.) to retrieve weather data for cities [OpenWeather API](https://openweathermap.org/api), And `localStorage` is used to store persistent data.
+ also i used JavaScript and momentjs.
+It allows the user to search to view weather outlook for multiple cities so travelers can plan a trip accordingly.
 
 ## Installation
 
