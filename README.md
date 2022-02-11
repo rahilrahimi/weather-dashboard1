@@ -49,9 +49,10 @@ It allows the user to search to view weather outlook for multiple cities so trav
 * Server-Side API - OpenWeather API
 
 ## Demo Link & Muck Up
-https://watch.screencastify.com/v/mOxQRBc6d3Q4x2xvVmpb
+https://watch.screencastify.com/v/2VYQEiRbCzupKFsMqIeY
 
-![mv](https://user-images.githubusercontent.com/87342751/153486817-13398a8a-6823-4fcf-993e-0ba817c2bd3f.PNG)
+![DV](https://user-images.githubusercontent.com/87342751/153518419-e9993bca-492e-4281-b8db-569f59f00bec.PNG)
+
 
 ## Deployed Link
 https://rahilrahimi.github.io/weather_dashboard/
