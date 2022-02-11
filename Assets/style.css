@@ -22,7 +22,7 @@ li {
 #searchResults,
 #cityDetail,
 .card {
-    background-color: #10769e!important;
+    background-color: #4d6fdd!important;
 }
 
 #searchResults {
@@ -34,7 +34,7 @@ li {
 }
 
 #searchHistory li {
-    background-color: #6cadeb;
+    background-color: #7ba0d8;
     color: #f8f8ff!important;
 }
 
@@ -52,7 +52,7 @@ h2, h3, h4, h5 {
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #6cadeb;
+    background-color: #7ba0d8;
 }
 
 
